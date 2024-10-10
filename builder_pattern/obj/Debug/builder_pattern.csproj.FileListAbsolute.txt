@@ -1,0 +1,7 @@
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\bin\Debug\builder_pattern.exe.config
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\bin\Debug\builder_pattern.exe
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\bin\Debug\builder_pattern.pdb
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\obj\Debug\builder_pattern.csproj.AssemblyReference.cache
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\obj\Debug\builder_pattern.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\obj\Debug\builder_pattern.exe
+\\iscsi\profstud\SHamDP\Desktop\builder_pattern-master\obj\Debug\builder_pattern.pdb
